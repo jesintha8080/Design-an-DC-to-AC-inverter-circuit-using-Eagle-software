@@ -40,13 +40,13 @@ The working of a transformer-based inverter begins with the DC supply provided b
 The quality of the output waveform depends on the switching method used. If the switches simply turn ON and OFF without modulation, the result is a square wave. For improved performance, pulse-width modulation (PWM) techniques are employed, which generate modified or pure sine wave outputs. In high-quality inverters, filters consisting of capacitors and inductors are used at the output stage to smoothen the waveform.Thus, the inverter provides a high-voltage AC supply capable of running household appliances, industrial machines, or communication equipment. Transformer-based inverters are reliable, provide electrical isolation, and are especially useful in applications where stable AC power is required from low-voltage DC sources.
 
 # CIRCUIT DIAGRAM:
-
 <img width="744" height="547" alt="image" src="https://github.com/user-attachments/assets/d7d74d2e-322f-4cae-a94a-2cb9ac7186a8" />
-
  
 # Schematic diagram
+<img width="932" height="494" alt="image" src="https://github.com/user-attachments/assets/3daa0b81-a375-4a48-94e1-16a746059a91" />
 
 # Layout diagram
+<img width="934" height="497" alt="image" src="https://github.com/user-attachments/assets/4a46d6c4-2e2f-46c0-a8ee-7c33b98c59ed" />
 
 # RESULT:
 Thus, the schematic and PCB layout for the DC to AC inverter circuit has been successfully designed using Eagle software.
